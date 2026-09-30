@@ -1,0 +1,13 @@
+CHECKPOINT 19 — DEPLOY A PERSONALIZED IMAGE CLASSIFIER
+
+Model:
+This project deploys a custom-trained PyTorch Convolutional Neural Network (CNN) for handwritten digit classification.
+
+User interaction:
+Users can upload a JPG, JPEG, or PNG image through a Streamlit interface and receive a predicted digit with a confidence score and probability chart.
+
+Future improvements:
+Future versions could support batch image prediction, downloading prediction results, and classification of more complex image classes.
+
+Successful test:
+The Streamlit application correctly predicted the uploaded digit 8 with 70.84% confidence.
